@@ -9,7 +9,7 @@
 
 ##
 
-[`STAR-MD`](https://github.com/Xcelsama/STAR-MD)
+[STAR-MD](https://github.com/Xcelsama/STAR-MD)
 
 
 [`STAR-MD-V2`](https://github.com/Xcelsama/STAR-MD-V2)
