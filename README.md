@@ -28,6 +28,7 @@
 
 [XLICON-MD-V2](https://github.com/salmanytofficial/XLICON-V2-MD/)
 
+[XLICON-MD-V3](https://github.com/salmanytofficial/XLICON-V3-MD) 
 
 [PRINCE-BOT](https://github.com/PRINCE-GDS/THE-PRINCE-BOT)
 
