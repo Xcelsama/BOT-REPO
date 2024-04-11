@@ -36,7 +36,7 @@
 [GURU-BOT](https://github.com/Guru322/GURU-BOT)
 
 
-[](https://wa.me/+2347045035241)
+[SECKTOR-MD](https://github.com/SamPandey001/Secktor-Md)
 
 
 [`ℹ️IN CASE OF HELP CONCERNING DEPLOYMENT
