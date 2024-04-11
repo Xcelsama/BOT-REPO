@@ -12,10 +12,10 @@
 [STAR-MD](https://github.com/Xcelsama/STAR-MD)
 
 
-[`STAR-MD-V2`](https://github.com/Xcelsama/STAR-MD-V2)
+[STAR-MD-V2](https://github.com/Xcelsama/STAR-MD-V2)
 
 
-[`BAT-MD`](https://github.com/EX-BOTS/BAT-MD)
+[BAT-MD](https://github.com/EX-BOTS/BAT-MD)
 
 
 [`ℹ️IN CASE OF HELP CONCERNING DEPLOYMENT
