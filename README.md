@@ -26,16 +26,16 @@
 
 [XLICON-MD](https://github.com/salmanytofficial/XLICON-MD)
 
+[XLICON-MD-V2](https://github.com/salmanytofficial/XLICON-V2-MD/)
+
 
 [PRINCE-BOT](https://github.com/PRINCE-GDS/THE-PRINCE-BOT)
 
 
-[`ℹ️IN CASE OF HELP CONCERNING DEPLOYMENT
-`](https://wa.me/+2347045035241)
+[GURU-BOT](https://github.com/Guru322/GURU-BOT)
 
 
-[`ℹ️IN CASE OF HELP CONCERNING DEPLOYMENT
-`](https://wa.me/+2347045035241)
+[](https://wa.me/+2347045035241)
 
 
 [`ℹ️IN CASE OF HELP CONCERNING DEPLOYMENT
