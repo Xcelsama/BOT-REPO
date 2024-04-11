@@ -24,11 +24,10 @@
 [SUHAIL-MD](https://github.com/SuhailTechInfo/Suhail-Md)
 
 
-[](https://wa.me/+2347045035241)
+[XLICON-MD](https://github.com/salmanytofficial/XLICON-MD)
 
 
-[`ℹ️IN CASE OF HELP CONCERNING DEPLOYMENT
-`](https://wa.me/+2347045035241)
+[]()
 
 
 [`ℹ️IN CASE OF HELP CONCERNING DEPLOYMENT
