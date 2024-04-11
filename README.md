@@ -18,12 +18,11 @@
 [BAT-MD](https://github.com/EX-BOTS/BAT-MD)
 
 
-[`ℹ️IN CASE OF HELP CONCERNING DEPLOYMENT
-`](https://wa.me/+2347045035241)
+[`CHEEMSBOT-MD8`](https://github.com/DGXeon/CheemsBot-MD8)
 
 
 [`ℹ️IN CASE OF HELP CONCERNING DEPLOYMENT
-`](https://wa.me/+2347045035241)
+`]()
 
 
 [`ℹ️IN CASE OF HELP CONCERNING DEPLOYMENT
