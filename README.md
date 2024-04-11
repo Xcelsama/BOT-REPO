@@ -27,7 +27,7 @@
 [XLICON-MD](https://github.com/salmanytofficial/XLICON-MD)
 
 
-[PRINCE-BOT](https://github.com/PRINCE-GDS)
+[PRINCE-BOT](https://github.com/PRINCE-GDS/THE-PRINCE-BOT)
 
 
 [`ℹ️IN CASE OF HELP CONCERNING DEPLOYMENT
