@@ -1,4 +1,4 @@
-[ℹ️BOT SUGGESTIONS YOU CAN DEPLOY](https://wa.me/+2347045035241)
+p[ℹ️BOT SUGGESTIONS YOU CAN DEPLOY](https://wa.me/+2347045035241)
 
 
 
@@ -18,7 +18,7 @@
 [BAT-MD](https://github.com/EX-BOTS/BAT-MD)
 
 
-[`CHEEMSBOT-MD8`](https://github.com/DGXeon/CheemsBot-MD8)
+[CHEEMSBOT-MD8](https://github.com/DGXeon/CheemsBot-MD8)
 
 
 [`ℹ️IN CASE OF HELP CONCERNING DEPLOYMENT
