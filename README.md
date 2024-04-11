@@ -39,12 +39,10 @@
 [SECKTOR-MD](https://github.com/SamPandey001/Secktor-Md)
 
 
-[`ℹ️IN CASE OF HELP CONCERNING DEPLOYMENT
-`](https://wa.me/+2347045035241)
+[DARK-SHAN-MD](https://github.com/kushansewmina1234/DARK-SHAN-MD)
 
 
-[`ℹ️IN CASE OF HELP CONCERNING DEPLOYMENT
-`](https://wa.me/+2347045035241)
+[VAJIRA-MD](https://github.com/VajiraTech/VAJIRA-MD)
 
 
 [`ℹ️IN CASE OF HELP CONCERNING DEPLOYMENT
