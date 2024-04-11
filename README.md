@@ -1,6 +1,6 @@
 ℹ️
 ##  
-[![BAT-MD](https://i.imgur.com/aoTBAxI.mp4)](https://wa.me/2347045035241)
+<img src="https://i.ibb.co/FscVPJ8/Dance-Bot-3-LG.gif" alt="Dance-Bot-3-LG" border="0">
 <h1 align="center">  🤖BOT-REPO🤖
 </p>
 
