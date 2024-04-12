@@ -45,8 +45,7 @@
 [VAJIRA-MD](https://github.com/VajiraTech/VAJIRA-MD)
 
 
-[`ℹ️IN CASE OF HELP CONCERNING DEPLOYMENT
-`](https://wa.me/+2347045035241)
+[A17-MD](https://github.com/Kai0071/A17)
 
 
 [`ℹ️IN CASE OF HELP CONCERNING DEPLOYMENT
