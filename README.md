@@ -51,8 +51,7 @@
 [IRIS-MD](https://github.com/V-E-N-O-X/IRIS-MD)
 
 
-[`ℹ️IN CASE OF HELP CONCERNING DEPLOYMENT
-`](https://wa.me/+2347045035241)
+[INRL-BOT](https://github.com/I-NRL/inrl-bot-md)
 
 
 [`ℹ️IN CASE OF HELP CONCERNING DEPLOYMENT
