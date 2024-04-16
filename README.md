@@ -54,32 +54,25 @@
 [INRL-BOT](https://github.com/I-NRL/inrl-bot-md)
 
 
-[`ℹ️IN CASE OF HELP CONCERNING DEPLOYMENT
-`](https://wa.me/+2347045035241)
+[USER-BOT](https://github.com/EX-BOTS/X-BOT)
 
 
-[`ℹ️IN CASE OF HELP CONCERNING DEPLOYMENT
-`](https://wa.me/+2347045035241)
+[UNIQUE-MD](https://github.com/wasixd/UNIQUE-MD)
 
 
-[`ℹ️IN CASE OF HELP CONCERNING DEPLOYMENT
-`](https://wa.me/+2347045035241)
+[MAKINO-MD](https://github.com/anonphoenix007/MAKINO-MD)
 
 
-[`ℹ️IN CASE OF HELP CONCERNING DEPLOYMENT
-`](https://wa.me/+2347045035241)
+[ANYA-PIKA-V2](https://github.com/Pika4O4/Anya-pika-MD-v2)
 
 
-[`ℹ️IN CASE OF HELP CONCERNING DEPLOYMENT
-`](https://wa.me/+2347045035241)
+[CYBER-X_BOT](https://github.com/darkalphaxteam/CYBER-X-WHATSAPP-BOT)
 
 
-[`ℹ️IN CASE OF HELP CONCERNING DEPLOYMENT
-`](https://wa.me/+2347045035241)
+[X-BOT-MD](https://github.com/A-S-W-I-N-S-P-A-R-K-Y/X-BOT-MD)
 
 
-[`ℹ️IN CASE OF HELP CONCERNING DEPLOYMENT
-`](https://wa.me/+2347045035241)
+[]()
 
 
 [`ℹ️IN CASE OF HELP CONCERNING DEPLOYMENT
