@@ -62,7 +62,7 @@
 [UNIQUE-MD](https://github.com/wasixd/UNIQUE-MD)
 
 
-[MAKINO-MD](https://github.com/anonphoenix007/MAKINO-MD)
+[MAKINO-MD-V2](https://github.com/anonphoenix007/MAKINO-MD-V2)
 
 
 [ANYA-PIKA-V2](https://github.com/Pika4O4/Anya-pika-MD-v2)
